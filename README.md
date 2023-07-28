@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning front end development.
 - 💞️ I’m looking to collaborate on css framework and react projects.
-- 📫 How to reach me..no thnakyou.
+- 📫 How to reach me..no thankyou.
 
 <!---
 itzzmehak/itzzmehak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
